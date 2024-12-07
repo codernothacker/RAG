@@ -1,0 +1,11 @@
+langchain==0.1.0
+langchain-community==0.0.10
+chromadb==0.4.22
+streamlit==1.32.0
+sentence-transformers==2.4.0
+pypdf==4.0.1
+unstructured==0.11.0
+pydantic==2.5.2
+python-dotenv==1.0.0
+openpyxl==3.1.2
+python-magic-win64==0.4.13
